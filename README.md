@@ -15,7 +15,7 @@
 🦾 Studied Human-Computer Interaction at University of Wisconsin-Madison <br/>
 ❄️ Accepted into University of Chicago's within <15% transfer applicant acceptance rate <br/>
 🗺️ Studied data at Columbia University, image-to-hand/eye interpretation at Concept Design Academy <br/>
-🧋 Taiwanese enby polyglot but nonchalant about it until someone screams at or bars me from my bathroom needs <br/>
+🧋 Taiwanese enby polyglot but nonchalant about it until screamed at or barred from my bathroom needs <br/>
 
 
 ### Non-Exhaustive Tech Stack
