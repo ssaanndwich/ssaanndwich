@@ -11,7 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-🍥 Product Designer, previously at Amazon, Exygy, Foodsmart, Chomp <br/>
 🦾 Studied Human-Computer Interaction and Computer Science at UW-Madison <br/>
 🗺️ Studied data at Columbia University, image-to-hand/eye interpretation at Concept Design Academy <br/>
 🧋 Taiwanese enby polyglot but nonchalant about it until screamed at or barred from my bathroom needs <br/>
