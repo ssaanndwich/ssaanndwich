@@ -12,8 +12,8 @@
 -->
 
 🍥 Product Designer, previously at Amazon, Exygy, Foodsmart <br/>
-🦾 Studied Human-Computer Interaction at University of Wisconsin-Madison <br/>
-❄️ Accepted into University of Chicago's within <15% transfer applicant acceptance rate <br/>
+🦾 Studied Human-Computer Interaction and Computer Science at University of Wisconsin-Madison <br/>
+❄️ Accepted into University of Chicago with a <15% transfer applicant acceptance rate but turned it down <br/>
 🗺️ Studied data at Columbia University, image-to-hand/eye interpretation at Concept Design Academy <br/>
 🧋 Taiwanese enby polyglot but nonchalant about it until screamed at or barred from my bathroom needs <br/>
 
