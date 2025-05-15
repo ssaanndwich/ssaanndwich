@@ -13,7 +13,7 @@
 
 🦾 Studied Human-Computer Interaction and Computer Science at UW-Madison <br/>
 🗺️ Studied data at Columbia University and image-to-hand/eye interpretation at Concept Design Academy <br/>
-✏️ Read the [Powers of Ten](https://www.youtube.com/watch?v=Ww4gYNrOkkg)-inspired [essay](https://docs.google.com/document/d/1ey90IpBDCJ6otwngmzMZ9suKRwZMC-9y/edit?usp=sharing&ouid=106962812392478472299&rtpof=true&sd=true) that got me into University of Chicago (<8% transfer applicant acceptance rate) <br/>
+✏️ Read the [Powers of Ten](https://www.youtube.com/watch?v=Ww4gYNrOkkg)-inspired [essay](https://www.notion.so/Billboards-1f434e05eff680c0a7e7f5d4df241181?pvs=4) that got me into University of Chicago (<8% transfer applicant acceptance rate) <br/>
 💬 Ask me why I declined the offer <br/>
 
 ### Partial Tech Stack and Services
