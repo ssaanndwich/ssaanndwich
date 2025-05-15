@@ -13,7 +13,6 @@
 
 🦾 Studied Human-Computer Interaction and Computer Science at UW-Madison <br/>
 🗺️ Studied data at Columbia University, image-to-hand/eye interpretation at Concept Design Academy <br/>
-🧋 Taiwanese enby polyglot but nonchalant about pronouns until screamed at or barred from my bathroom needs <br/>
 💬 Ask me about the Powers of Ten x particle accelerator-inspired essay that got me into University of Chicago (<8% transfer applicant acceptance rate) and why I declined the offer <br/>
 
 ### Partial Tech Stack and Services
