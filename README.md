@@ -13,7 +13,7 @@
 
 🦾 Studied Human-Computer Interaction and Computer Science at UW-Madison <br/>
 🗺️ Studied data at Columbia University and image-to-hand/eye interpretation at Concept Design Academy <br/>
-✏️ Read the [essay](https://www.notion.so/Billboards-1f434e05eff680c0a7e7f5d4df241181?pvs=4) that got me into University of Chicago (<8% transfer applicant acceptance rate) <br/>
+✏️ Read my University of Chicago application [essay](https://www.notion.so/Billboards-1f434e05eff680c0a7e7f5d4df241181?pvs=4) (<8% transfer acceptance rate) <br/>
 💬 Ask me why I declined the UChicago offer or how I'm nonchalant about pronouns until screamed at for needing a bathroom<br/>
 
 ### Partial Tech Stack and Services
