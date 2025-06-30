@@ -12,7 +12,7 @@
 -->
 
 🦾 Studied Human-Computer Interaction and Computer Science at UW-Madison <br/>
-🗺️ Studied data at Columbia University and image-to-hand/eye interpretation at Concept Design Academy <br/>
+🗺️ Studied data at Columbia University and rapid illustration at Concept Design Academy <br/>
 ✏️ Read my University of Chicago application [essay](https://www.notion.so/Billboards-1f434e05eff680c0a7e7f5d4df241181?pvs=4) (<8% transfer acceptance rate) <br/>
 
 ### Partial Tech Stack and Services
