@@ -10,14 +10,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🦾 Human-Computer Interaction and Computer Science at UW-Madison <br/>
+
+## Get Human Coaching or an Accountability Buddy
+🎒 Book a career, job search, or startup advising consultation [here](https://cal.com/sandwich) <br />
+
+### My Background
+🦾 Human-Computer Interaction & Computer Science at UW-Madison <br/>
 🗺️ Data Journalism at Columbia University <br />
 ✍🏼 Rapid Illustration at Concept Design Academy <br/>
 
-## Get Coached
-🎒 Book a career, job search, or startup advising consultation [here](https://cal.com/sandwich) <br />
-
-### Testimonials
+### Mentorship Testimonials
 >"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."
 – Machine Learning Tooling Software Engineer, ex-Google
 
