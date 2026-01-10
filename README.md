@@ -23,9 +23,6 @@
 >"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."
 – Machine Learning Tooling Software Engineer, ex-Google
 
->"San is incredibly knowledgable and eloquent. They conducted a mock interview with me ... and provided great answers to questions and showed obvious technical talent as well as communication skills. Would recommend if you want to chat about UX/Product or advice on wider career matters."
-– Senior UX Designer, Microsoft
-
 >"San is clearly a passionate, experienced designer. They have a demonstrated history of solving complex problems that get results and would absolutely be an asset to any team. Highly recommend!"
 – Lead Product Designer in Design Systems, Wells Fargo
 
