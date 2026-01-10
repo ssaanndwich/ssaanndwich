@@ -14,8 +14,8 @@
 🗺️ Studied data at Columbia University and rapid illustration at Concept Design Academy <br/>
 
 
-## Get Career and Job Search Coaching
-🎒 Book a consultation or your next session [here](https://cal.com/sandwich) <br />
+## Get Coached
+🎒 Book a career, job search, or startup advising consultation [here](https://cal.com/sandwich) <br />
 
 ### Testimonials
 >"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."
