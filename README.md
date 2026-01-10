@@ -14,17 +14,20 @@
 ## Get Human Coaching or an Accountability Buddy
 🎒 Book a career, job search, or startup advising consultation [here](https://cal.com/sandwich) <br />
 
-### My Background
+### Education
 🦾 Human-Computer Interaction & Computer Science at UW-Madison <br/>
 🗺️ Data Journalism at Columbia University <br />
-✍🏼 Rapid Illustration at Concept Design Academy <br/>
+✍🏼 Rapid Illustration by animation industry pros and ArtCenter College of Design grads <br/>
 
-### Mentorship Testimonials
+### Testimonials
 >"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."
 – Machine Learning Tooling Software Engineer, ex-Google
 
 >"San is incredibly knowledgable and eloquent. They conducted a mock interview with me ... and provided great answers to questions and showed obvious technical talent as well as communication skills. Would recommend if you want to chat about UX/Product or advice on wider career matters."
 – Senior UX Designer, Microsoft
+
+>"San is clearly a passionate, experienced designer. They have a demonstrated history of solving complex problems that get results and would absolutely be an asset to any team. Highly recommend!"
+– Lead Product Designer in Design Systems, Wells Fargo
 
 >"San provided practical and personalized feedback on my job search. They [offered] great advice on referrals, job boards, and networking, along with cultural insights about tech. I appreciated the direct yet supportive approach."
 – Business Analyst with a Masters in Data Science
