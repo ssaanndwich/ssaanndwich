@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Get Human Coaching or an Accountability Buddy
+## Get Human Coaching and Accountability Checks
 🎒 Book a career, job search, or startup advising consultation [here](https://cal.com/sandwich) <br />
 
 ### Education
