@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 🦾 Human-Computer Interaction and Computer Science at UW-Madison <br/>
-🗺️ Data Journalism at Columbia University
+🗺️ Data Journalism at Columbia University <br />
 ✍🏼 Rapid Illustration at Concept Design Academy <br/>
 
 ## Get Coached
