@@ -10,9 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🦾 Studied Human-Computer Interaction and Computer Science at UW-Madison <br/>
-🗺️ Studied data at Columbia University and rapid illustration at Concept Design Academy <br/>
-
+🦾 Human-Computer Interaction and Computer Science at UW-Madison <br/>
+🗺️ Data Journalism at Columbia University
+✍🏼 Rapid Illustration at Concept Design Academy <br/>
 
 ## Get Coached
 🎒 Book a career, job search, or startup advising consultation [here](https://cal.com/sandwich) <br />
