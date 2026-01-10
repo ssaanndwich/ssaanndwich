@@ -17,7 +17,7 @@
 ### Education
 🦾 Human-Computer Interaction & Computer Science at UW-Madison <br/>
 🗺️ Data Journalism at Columbia University <br />
-✍🏼 Rapid Illustration by animation industry pros and ArtCenter College of Design grads <br/>
+✍🏼 Rapid Illustration by Concept Design Academy <br/>
 
 ### Testimonials
 >"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."
