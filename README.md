@@ -20,13 +20,13 @@
 ✍🏼 Rapid Illustration by Concept Design Academy <br/>
 
 ### Testimonials
->"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."
-– Machine Learning Tooling Software Engineer, ex-Google
+>"During our session, San shared with me how I could improve my oral presentation, which I have not noticed or considered earlier. San provided constructive and professional feedback without being discouraging."  <br />
+– Machine Learning Tooling Software Engineer, Xoogler
 
->"San is clearly a passionate, experienced designer. They have a demonstrated history of solving complex problems that get results and would absolutely be an asset to any team. Highly recommend!"
+>"San is clearly a passionate, experienced designer. They have a demonstrated history of solving complex problems that get results and would absolutely be an asset to any team. Highly recommend!"  <br />
 – Lead Product Designer in Design Systems, Wells Fargo
 
->"San provided practical and personalized feedback on my job search. They [offered] great advice on referrals, job boards, and networking, along with cultural insights about tech. I appreciated the direct yet supportive approach."
+>"San provided practical and personalized feedback on my job search. They [offered] great advice on referrals, job boards, and networking, along with cultural insights about tech. I appreciated the direct yet supportive approach." <br />
 – Business Analyst with a Masters in Data Science
 
 ## Partial Tech Stack and Services
